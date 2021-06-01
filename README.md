@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+#Simran Kaur
+*High-energy Student currently finalizing Masters in Data Analytics and prepared to contribute to organizational success while developing new skills and gaining real-world experience. Highly organized, responsible and well-versed in Python. Positively impacts operations with top-notch communication and critical thinking skills.*
 
-You can use the [editor on GitHub](https://github.com/SimranKaur-23/My-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#Education
+*M.Sc. in Computer Science with specialization in Data Analytics, *IIITM-Kerala*, 2020-2022*
+*B.Sc. (H) Mathematics, *SGTB Khalsa College*, 2016-2019*
+-8.243 CGPA
+*XII (ISC), *St. John's School Marhauli*, 2015-2016*
+-PCM (with computer science)
+- 91%
+*X (ICSE), *St. John's School Marhauli*, 2013-2014*
+-90.6%
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: Covid-19 Analysis]
 
-### Markdown
+Performed covid-19 analysis on Italy dataset. The dataset was taken from Kaggle. I performed Exploratory Data Analysis, Data Visualization and Time Series Analysis on the given dataset. After doing EDA, I also performed ANOVA test. I used ARIMA model for the time series analysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: Customer Segmentation Engine]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimranKaur-23/My-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As a part of this project, I created a customer base segregator wherein performed Exploratory Data Analysis on e-commerce data and then performed clustering analysis.
