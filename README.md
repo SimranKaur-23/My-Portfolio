@@ -1,11 +1,11 @@
 # Simran Kaur
 
-* High-energy Student currently finalizing Masters in Data Analytics and prepared to contribute to organizational success while developing new skills and gaining real-world experience. Highly organized, responsible and well-versed in Python. Positively impacts operations with top-notch communication and critical thinking skills. *
+* High-energy Student currently finalizing Masters in Data Analytics and prepared to contribute to organizational success while developing new skills and gaining real-world experience. Highly organized, responsible and well-versed in Python. Positively impacts operations with top-notch communication and critical thinking skills. 
 
 # Education
 
 * M.Sc. in Computer Science with specialization in Data Analytics, *IIITM-Kerala*, 2020-2022
-* B.Sc. (H) Mathematics, *SGTB Khalsa College*, 2016-2019*
+* B.Sc. (H) Mathematics, *SGTB Khalsa College*, 2016-2019
   - 8.243 CGPA
 * XII (ISC), *St. John's School Marhauli*, 2015-2016
   - PCM (with computer science)
