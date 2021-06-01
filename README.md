@@ -4,14 +4,14 @@
 
 # Education
 
-* M.Sc. in Computer Science with specialization in Data Analytics, *IIITM-Kerala*, 2020-2022*
+* M.Sc. in Computer Science with specialization in Data Analytics, *IIITM-Kerala*, 2020-2022
 * B.Sc. (H) Mathematics, *SGTB Khalsa College*, 2016-2019*
--8.243 CGPA
-* XII (ISC), *St. John's School Marhauli*, 2015-2016*
--PCM (with computer science)
-- 91%
-* X (ICSE), *St. John's School Marhauli*, 2013-2014*
--90.6%
+  - 8.243 CGPA
+* XII (ISC), *St. John's School Marhauli*, 2015-2016
+  - PCM (with computer science)
+  - 91%
+* X (ICSE), *St. John's School Marhauli*, 2013-2014 
+  - 90.6%
 
 # [Project 1: Covid-19 Analysis]
 
