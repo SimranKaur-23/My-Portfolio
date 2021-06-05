@@ -12,6 +12,7 @@
   - 91%
 * X (ICSE), *St. John's School Marhauli*, 2013-2014 
   - 90.6%
+
 # [Project 3: Twitter Sentiment Analysis]
 
   - Performed sentiment analysis on tweets which were extracted from twitter API using tweepy module.
