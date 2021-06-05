@@ -29,3 +29,8 @@ Performed covid-19 analysis on Italy dataset. The dataset was taken from Kaggle.
 # [Project 3: Customer Segmentation Engine]
 
 As a part of this project, I created a customer base segregator wherein performed Exploratory Data Analysis on e-commerce data and then performed clustering analysis.
+
+# Experience
+ - currently enrolled as a participant in #100DaysofUplift at GSOC (Girl Script of Code).
+ - was a data science and business analytic intern at The Sparks Foundation for a period of 1 month.
+ - was a teaching intern and volunteer at The Fix My Life Foundation for a period of 6 months.
